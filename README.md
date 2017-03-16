@@ -1,2 +1,2 @@
 # CDI
-#This is the a project for the CDI organisatio
+#This is the a project for the CDI organisation
